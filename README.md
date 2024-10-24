@@ -10,7 +10,14 @@ You can download a .zip of the mod using the "Download ZIP" button under the "Co
 
 ## Gallery
 
+### A little dull, but much nicer on performance
+![image](https://github.com/user-attachments/assets/24a91230-9d96-43fa-9dbd-a2dfc2cf2657)
 
+### Works on my machine
+![image](https://github.com/user-attachments/assets/24e27177-f363-422c-a90d-043cf535e5c4)
+
+### oops
+![image](https://github.com/user-attachments/assets/6a7d8c6d-8a3d-40ea-b5f0-6800cf9834ce)
 
 ## Licensing
 
